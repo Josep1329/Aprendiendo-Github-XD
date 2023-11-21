@@ -1,0 +1,3 @@
+C:/Users/josep/CLionProjects/Aprendiendo-Github-XD/cmake-build-debug/CMakeFiles/Aprendiendo_Github_XD.dir
+C:/Users/josep/CLionProjects/Aprendiendo-Github-XD/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/josep/CLionProjects/Aprendiendo-Github-XD/cmake-build-debug/CMakeFiles/rebuild_cache.dir
